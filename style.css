@@ -1,6 +1,6 @@
 body {
-    background: #2a2a2a;
-    color: #ddd;
+    background: black;
+    color: pink;
     padding: 10px;
     font-family: Arial, sans-serif;
 }
@@ -41,12 +41,12 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #ffa500;
+    color: white; 
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: purple;
     display: flex;
     margin-top: 20px;
 }
@@ -147,3 +147,6 @@ h2, h3 {
     justify-content: center;
   }
 }
+git add.content
+git commit-m "update"
+git push
